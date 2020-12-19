@@ -2,7 +2,7 @@
 
 ## Team
   - Deema AbuZahra
-  - Emad Aqel
+  - Imad Aqel
   - Noor Aldeen Ashqer 
   - Qamar Jaradat
   - Razan Abusamra
